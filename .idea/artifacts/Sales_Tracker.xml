@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Sales Tracker">
+    <output-path>$PROJECT_DIR$/out/artifacts/Sales_Tracker</output-path>
+    <root id="archive" name="ExcelTest.jar">
+      <element id="module-output" name="ExcelTest" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/stancu/lib/jxl.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
